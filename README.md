@@ -1,4 +1,4 @@
 # try
 first demo repo
 <br>
-Author: Aryan Thakur
+Author: Aryan Thakur (A Warrior)
